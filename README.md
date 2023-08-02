@@ -1,7 +1,5 @@
- Hi guyzzz😎 I am Thilagavathi Ramanathan. I’m interested in DataScience and Hacking. I have finished Certified Ethical Hacking Certification. I have done a intern as Security
- Analyst at Techtorad cybersecurity company. I’m currently learning Postgraduation in Data Science. 
- 
- Skills - Network Scanners, DNS Enumeration, WireShark, Python, Pandas, Numpy, Tableau, Webscraping, Beautifulsoup, SQL, MongoDB, MI&AI, MS-Excel.
+ Hi guyzzz😎 I am Thilagavathi Ramanathan. Highly motivated and results-driven professional with a proven track record of success in ERP Software. Possessing [1.8] years of experience, I am dedicated to achieving excellence through strategic planning, problem-solving, and effective collaboration. With a strong focus on optimizing processes and fostering team growth, I have consistently delivered exceptional outcomes for both clients and organizations.
+
 
  
 
